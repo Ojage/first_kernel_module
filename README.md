@@ -1,6 +1,6 @@
 # My First Kernel Module
 
-Welcome to the **First Kernel Module** repository! This is a simple Linux kernel module written as part of my exploration into Linux kernel development. This module prints fun messages to the kernel logs when loaded and unloaded, and serves as an assignment to build a basic kernel module that interacts with the Linux kernel log system.
+Welcome to the **First Kernel Module** repository! This is a simple Linux kernel module written as part of my exploration into Linux kernel development. This module logs some messages to the kernel logs when loaded and unloaded, and serves as an assignment [Project 1]to build a basic kernel module that interacts with the Linux kernel log system.
 
 ## Table of Contents
 - [Overview](#overview)
