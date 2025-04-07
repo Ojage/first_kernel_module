@@ -1,0 +1,1 @@
+savedcmd_/home/salathiel/km/my_first_km/my_module.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/salathiel/km/my_first_km/my_module.ko /home/salathiel/km/my_first_km/my_module.o /home/salathiel/km/my_first_km/my_module.mod.o;  make -f ./arch/x86/Makefile.postlink /home/salathiel/km/my_first_km/my_module.ko

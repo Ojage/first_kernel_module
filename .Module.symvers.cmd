@@ -1,0 +1,1 @@
+savedcmd_/home/salathiel/km/my_first_km/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/salathiel/km/my_first_km/Module.symvers -T /home/salathiel/km/my_first_km/modules.order -i Module.symvers -e 
